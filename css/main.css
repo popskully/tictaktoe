@@ -543,6 +543,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 83.333333%;
 }
 
+.w-9\/12 {
+  width: 75%;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }
